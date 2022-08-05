@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedbhanushali&label=Profile%20views&color=0e75b6&style=flat" alt="vedbhanushali" /> </p>
 
-- 👨‍💻 All of my projects are available at [github](https://github.com/Vedbhanushali)
+- 👨‍💻 All of my projects are available at [github]([https://github.com/Vedbhanushali](https://github.com/Vedbhanushali?tab=repositories))
 
 - 📝 I regularly write articles on [hacking](hacking)
 
