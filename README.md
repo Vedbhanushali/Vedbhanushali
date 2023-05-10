@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **vedbhanushali0@gmail.com**
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedbhanushali&show_icons=true&locale=en" alt="vedbhanushali" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vedbhanushali&show_icons=true&locale=en" alt="vedbhanushali" /></p> -->
 
 
 <h3 align="left">Languages and Tools:</h3>
