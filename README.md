@@ -1,6 +1,6 @@
 
 <h1 align="center">Portfolio of Ved Bhanushali</h1>
-<h3 align="center">Coder Hacker and Developer</h3>
+<h3 align="center">Software Engineer</h3>
 
 <!-- ![banner](https://github.com/Vedbhanushali/Vedbhanushali/blob/main/banner_linkedin.png?raw=true) -->
 
