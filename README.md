@@ -2,13 +2,13 @@
 <h1 align="center">Portfolio of Ved Bhanushali</h1>
 <h3 align="center">Coder Hacker and Developer</h3>
 
-![banner](https://github.com/Vedbhanushali/Vedbhanushali/blob/main/banner_linkedin.png?raw=true)
+<!-- ![banner](https://github.com/Vedbhanushali/Vedbhanushali/blob/main/banner_linkedin.png?raw=true) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedbhanushali&label=Profile%20views&color=0e75b6&style=flat" alt="vedbhanushali" /> </p>
 
 - 👨‍💻 All of my projects are available at [github](https://github.com/Vedbhanushali?tab=repositories)
 
-- 📝 I regularly write articles on [hacking](hacking)
+<!-- - 📝 I regularly write articles on [hacking](hacking) -->
 
 - 📫 How to reach me **vedbhanushali0@gmail.com**
 
