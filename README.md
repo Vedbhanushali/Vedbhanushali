@@ -27,9 +27,7 @@ I'm a passionate web developer with expertise in JavaScript, React.JS, and Remix
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Vedbhanushali&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Vedbhanushali&theme=darcula&hide_border=false)<br/>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Vedbhanushali&limit=5&theme=monokai&combine_all_yearly_contributions=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedbhanushali&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
