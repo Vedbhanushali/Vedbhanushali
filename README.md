@@ -1,10 +1,18 @@
-# 💫 About Me:
-I'm a software engineer specializing in **Full-Stack** web development. I specialize in **JS & TS** for web applications, along with **Remix.js, React.js, TailwindCSS, Redux, Prisma, Node.js, Express.js, Ruby on Rails, MongoDB, PostgreSQL, REST APIs, GraphQL, and Strapi**. My full-stack expertise in both frontend and backend development allows me to create responsive and dynamic web pages that are intuitive and user-friendly. I can build powerful web experiences that adapt to different devices, handle complex features, and manage data efficiently.<br><br>- 📫 How to reach me **vedbhanushali0@gmail.com**
+<div align="right">
+  
+  [![](https://visitcount.itsvg.in/api?id=Vedbhanushali&icon=0&color=7)](https://visitcount.itsvg.in)
+  
+</div>
 
+# 💫 About Me:
+<p align="justify">
+I'm a software engineer specializing in **Full-Stack** web development. I specialize in **JS & TS** for web applications, along with **Remix.js, React.js, TailwindCSS, Redux, Prisma, Node.js, Express.js, Ruby on Rails, MongoDB, PostgreSQL, REST APIs, GraphQL, and Strapi**. My full-stack expertise in both frontend and backend development allows me to create responsive and dynamic web pages that are intuitive and user-friendly. I can build powerful web experiences that adapt to different devices, handle complex features, and manage data efficiently.
+</p>
+<br><br>- 📫 How to reach me **vedbhanushali0@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ved-k-bhanushali) 
-
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vedbhanushxli) 
 
 # 💻 Tech Stack:
 
@@ -69,13 +77,9 @@ I'm a software engineer specializing in **Full-Stack** web development. I specia
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Vedbhanushali&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vedbhanushali&theme=darcula&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Vedbhanushali&theme=darcula&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Vedbhanushali&theme=darcula&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedbhanushali&theme=darcula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-[![](https://visitcount.itsvg.in/api?id=Vedbhanushali&icon=0&color=7)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
