@@ -8,7 +8,8 @@
 <p align="justify">
 I'm a software engineer specializing in **Full-Stack** web development. I specialize in **JS & TS** for web applications, along with **Remix.js, React.js, TailwindCSS, Redux, Prisma, Node.js, Express.js, Ruby on Rails, MongoDB, PostgreSQL, REST APIs, GraphQL, and Strapi**. My full-stack expertise in both frontend and backend development allows me to create responsive and dynamic web pages that are intuitive and user-friendly. I can build powerful web experiences that adapt to different devices, handle complex features, and manage data efficiently.
 </p>
-<br><br>- 📫 How to reach me **vedbhanushali0@gmail.com**
+
+- 📫 How to reach me **vedbhanushali0@gmail.com**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ved-k-bhanushali) 
