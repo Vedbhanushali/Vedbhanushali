@@ -6,7 +6,7 @@
 
 # 💫 About Me:
 <p align="justify">
-I'm a software engineer specializing in **Full-Stack** web development. I specialize in **JS & TS** for web applications, along with **Remix.js, React.js, TailwindCSS, Redux, Prisma, Node.js, Express.js, Ruby on Rails, MongoDB, PostgreSQL, REST APIs, GraphQL, and Strapi**. My full-stack expertise in both frontend and backend development allows me to create responsive and dynamic web pages that are intuitive and user-friendly. I can build powerful web experiences that adapt to different devices, handle complex features, and manage data efficiently.
+I'm a software engineer specializing in <b>Full-Stack</b> web development. I specialize in <b>JS & TS</b> for web applications, along with <b>Remix.js, React.js, TailwindCSS, Redux, Prisma, Node.js, Express.js, Ruby on Rails, MongoDB, PostgreSQL, REST APIs, GraphQL, and Strapi</b>. My full-stack expertise in both frontend and backend development allows me to create responsive and dynamic web pages that are intuitive and user-friendly. I can build powerful web experiences that adapt to different devices, handle complex features, and manage data efficiently.
 </p>
 
 - 📫 How to reach me **vedbhanushali0@gmail.com**
